@@ -2,4 +2,6 @@
 
 I will demonstrate on how to edit a page using React.
 
-step one
+step 1:
+
+create license to help stop misuse when created by adding an Apache License
